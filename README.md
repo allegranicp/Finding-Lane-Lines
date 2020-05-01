@@ -11,8 +11,8 @@ The goals / steps of this project are the following:
 [image1]: ./images/blur_output.png "Gaussian Blur"
 [image2]: ./images/canny_edge_detection_output.png "Canny Edge Detection"
 [image3]: ./images/hough_lines_output.png "Hough Lines"
-[image4]: ./images/result.png "Output"
-[image5]: ./images/laneLines_thirdPass.jpg "Output example"
+[image4]: ./images/result_1.png "Output with Hough"
+[image5]: ./images/result_only.png "Output Only"
 [video1]: ./solidWhiteRight.mp4 "Video"
 [video2]: ./solidYellowLeft.mp4 "Video2"
 
