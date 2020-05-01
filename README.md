@@ -62,8 +62,8 @@ Finally, I extend these continuous lines to the top and bottom of the region of 
 
 ### Pipeline (videos)
 
-Here's a link to my first video [video1](./solidWhiteRight.mp4)
-Here's a link to my second video [video2](./solidYellowLeft.mp4)
+* Here's a link to my first video [video1](./solidWhiteRight.mp4)
+* Here's a link to my second video [video2](./solidYellowLeft.mp4)
 
 ---
 
